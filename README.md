@@ -9,9 +9,7 @@
 ✅ Use dedicated buttons or simple swipe gestures to manage your tasks effortlessly.
 <br>
    ➡ Swipe Right to edit a task 📝
-   <br>
    ⬅ Swipe Left to delete a task 🗑
-   <br>
 
 Looking Forward to complete the further tasks and gaining experiences in this internship.
 
