@@ -1,7 +1,6 @@
 <b>To-Do List App</b>
 
-"📱 Excited to announce the successful completion of task 1 in the @LetsGrowMore virtual internship, where i successfully built an Android app - To-Do List App ✅
-
+"Excited To Share My Latest Project To-Do List App To Keep Track Of Your Daily Tasks Seamlessly
 ⏩ Key Features:
 <br>
 ✅ Edit and Delete Tasks with Ease 
@@ -11,6 +10,4 @@
    ➡ Swipe Right to edit a task 📝
    ⬅ Swipe Left to delete a task 🗑
 
-Looking Forward to complete the further tasks and gaining experiences in this internship.
-
-#AndroidDevelopment #BharatIntern #VirtualInternship #ToDoList #ExcitedToLearn #SwipeGestures
+#AndroidDevelopment #ToDoList #ExcitedToLearn #SwipeGestures
